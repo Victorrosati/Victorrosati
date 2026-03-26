@@ -1,4 +1,4 @@
-# Hi there, I'm Victor Rosati! 🌐
+# Hi there, I'm Victor Rosati! 
 
 ### 👨‍💻 About Me
 I am a **Junior Cybersecurity Specialist** with a strong operational mindset:
@@ -40,3 +40,6 @@ Explore my [**Cybersecurity Portfolio**](https://github.com/yungyrtt/cybersecuri
 
 ---
 *"Every day, in every way, I am getting better and better."*
+
+### 🐍 My Contribution Graph
+![snake animation](https://github.com/Victorrosati/Victorrosati/blob/output/github-contribution-grid-snake.svg)
