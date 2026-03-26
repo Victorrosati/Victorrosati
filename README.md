@@ -26,7 +26,7 @@ I am a **Junior Cybersecurity Specialist** with a strong operational mindset:
 ---
 
 ### 📂 Featured Portfolio
-Explore my [**Cybersecurity Portfolio**](https://github.com/yungyrtt/cybersecurity-portfolio) for detailed technical reports:
+Explore my [**Cybersecurity Portfolio**](https://github.com/Victorrosati/CyberSecurity-Portfolio) for detailed technical reports:
 
 * **🔴 Red Team:** BlackBox challenges, Buffer Overflows, and Web App Exploitation (SQLi, XSS).
 * **🔵 Blue Team:** Network Traffic Analysis (Wireshark), Malware Investigation (Agent Tesla), and SOC Monitoring.
