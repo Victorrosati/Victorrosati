@@ -1,7 +1,7 @@
 # Hi there, I'm Victor Rosati! 🌐
 
 ### 👨‍💻 About Me
-I am a **Junior Cybersecurity Specialist** with a strong operational mindset. My background in **physical security** and managing critical situations has forged my ability to stay calm and effective under pressure—a skill I now apply to protecting digital infrastructures and analyzing complex threats.
+I am a **Junior Cybersecurity Specialist** with a strong operational mindset:
 
 - 🛡️ **Purple Team Focus:** I bridge the gap between offensive techniques and defensive monitoring.
 - 🧪 **Home Lab Architect:** I manage a hybrid Red/Blue lab (Kali Linux, Win Server 2022, Splunk, FLARE VM) to simulate real-world attack vectors and forensic analysis.
