@@ -40,6 +40,3 @@ Explore my [**Cybersecurity Portfolio**](https://github.com/yungyrtt/cybersecuri
 
 ---
 *"Every day, in every way, I am getting better and better."*
-
-### 🐍 My Contribution Graph
-![snake animation](https://github.com/Victorrosati/Victorrosati/blob/output/github-contribution-grid-snake.svg)
